@@ -18,7 +18,7 @@ section .linha {
     position: relative;
     top: -50%;
     width: 100%;
-    display:flex;
+    display: flex;
     padding: 10px 0;
     white-space: nowrap;
     font-size: 64px;
